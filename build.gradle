@@ -1,0 +1,29 @@
+plugins {
+    id 'java'
+}
+
+group 'mc.apps'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+
+    // logger
+    implementation 'org.slf4j:slf4j-log4j12:1.7.32'
+
+    // JUnit 5
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
+
+    //  Mockito Test Framework
+    testImplementation 'org.mockito:mockito-inline:4.1.0'
+    testImplementation 'org.mockito:mockito-junit-jupiter:4.1.0'
+
+}
+
+test {
+    useJUnitPlatform()
+}
