@@ -342,3 +342,489 @@
 2021-12-10 16:45:48 INFO  Database:10 - database instantiate..
 2021-12-10 16:45:48 INFO  Service:11 - service instantiate..add database instance
 2021-12-10 16:45:48 INFO  Database:10 - database instantiate..
+2021-12-13 09:15:54 INFO  Database:10 - database instantiate..
+2021-12-13 09:15:56 INFO  Database:18 - database getName()..
+2021-12-13 09:15:56 INFO  Repository:13 - Repository instantiate..Demo DB!
+2021-12-13 09:15:56 INFO  Database:10 - database instantiate..
+2021-12-13 09:15:56 INFO  Repository:13 - Repository instantiate..null
+2021-12-13 09:15:56 INFO  Database:10 - database instantiate..
+2021-12-13 09:15:56 INFO  Repository:13 - Repository instantiate..null
+2021-12-13 09:15:56 INFO  Database:10 - database instantiate..
+2021-12-13 09:15:56 INFO  Repository:13 - Repository instantiate..null
+2021-12-13 09:15:56 INFO  Database:18 - database getName()..
+2021-12-13 09:15:56 INFO  Database:10 - database instantiate..
+2021-12-13 09:15:57 INFO  Database:18 - database getName()..
+2021-12-13 09:15:57 INFO  Repository:13 - Repository instantiate..Demo DB!
+2021-12-13 09:15:57 INFO  Service:11 - service instantiate..add database instance
+2021-12-13 09:15:57 INFO  Database:10 - database instantiate..
+2021-12-13 09:15:57 INFO  Database:18 - database getName()..
+2021-12-13 09:15:57 INFO  Repository:13 - Repository instantiate..Demo DB!
+2021-12-13 09:17:30 INFO  Database:10 - database instantiate..
+2021-12-13 09:17:32 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@533a0c18
+2021-12-13 09:17:32 INFO  Database:10 - database instantiate..
+2021-12-13 09:17:32 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@425c6649
+2021-12-13 09:17:32 INFO  Database:10 - database instantiate..
+2021-12-13 09:17:32 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:17:32 INFO  Database:10 - database instantiate..
+2021-12-13 09:17:32 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:17:32 INFO  Database:18 - database getName()..
+2021-12-13 09:17:32 INFO  Database:10 - database instantiate..
+2021-12-13 09:17:32 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:17:32 INFO  Service:11 - service instantiate..add database instance
+2021-12-13 09:17:32 INFO  Database:10 - database instantiate..
+2021-12-13 09:17:32 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:18:23 INFO  Database:10 - database instantiate..
+2021-12-13 09:18:25 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@533a0c18
+2021-12-13 09:18:25 INFO  Database:10 - database instantiate..
+2021-12-13 09:18:25 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@425c6649
+2021-12-13 09:18:25 INFO  Database:10 - database instantiate..
+2021-12-13 09:18:25 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:18:25 INFO  Database:10 - database instantiate..
+2021-12-13 09:18:25 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:18:25 INFO  Database:18 - database getName()..
+2021-12-13 09:18:25 INFO  Database:10 - database instantiate..
+2021-12-13 09:18:25 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@9644ca6
+2021-12-13 09:18:25 INFO  Service:11 - service instantiate..add database instance
+2021-12-13 09:18:25 INFO  Database:10 - database instantiate..
+2021-12-13 09:18:25 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@3b6c4f18
+2021-12-13 09:19:10 INFO  Database:10 - database instantiate..
+2021-12-13 09:19:12 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@4c78908b
+2021-12-13 09:19:12 INFO  Database:10 - database instantiate..
+2021-12-13 09:19:12 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@3d49667a
+2021-12-13 09:19:12 INFO  Database:10 - database instantiate..
+2021-12-13 09:19:12 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:19:12 INFO  Database:10 - database instantiate..
+2021-12-13 09:19:12 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:19:12 INFO  Database:18 - database getName()..
+2021-12-13 09:19:12 INFO  Database:10 - database instantiate..
+2021-12-13 09:19:12 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:19:12 INFO  Service:11 - service instantiate..add database instance
+2021-12-13 09:19:12 INFO  Database:10 - database instantiate..
+2021-12-13 09:19:12 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@180457c0
+2021-12-13 09:19:47 INFO  Database:10 - database instantiate..
+2021-12-13 09:19:49 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@4c78908b
+2021-12-13 09:19:49 INFO  Database:10 - database instantiate..
+2021-12-13 09:19:49 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@3d49667a
+2021-12-13 09:19:49 INFO  Database:10 - database instantiate..
+2021-12-13 09:19:49 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:19:49 INFO  Database:10 - database instantiate..
+2021-12-13 09:19:49 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:19:49 INFO  Database:18 - database getName()..
+2021-12-13 09:19:49 INFO  Database:10 - database instantiate..
+2021-12-13 09:19:49 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:19:49 INFO  Service:11 - service instantiate..add database instance
+2021-12-13 09:19:49 INFO  Database:10 - database instantiate..
+2021-12-13 09:19:49 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@180457c0
+2021-12-13 09:20:08 INFO  Database:10 - database instantiate..
+2021-12-13 09:20:10 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@4c78908b
+2021-12-13 09:20:10 INFO  Database:10 - database instantiate..
+2021-12-13 09:20:10 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@3d49667a
+2021-12-13 09:20:10 INFO  Database:10 - database instantiate..
+2021-12-13 09:20:10 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:20:11 INFO  Database:10 - database instantiate..
+2021-12-13 09:20:11 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:20:11 INFO  Database:18 - database getName()..
+2021-12-13 09:20:11 INFO  Database:10 - database instantiate..
+2021-12-13 09:20:11 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:20:11 INFO  Service:11 - service instantiate..add database instance
+2021-12-13 09:20:11 INFO  Database:10 - database instantiate..
+2021-12-13 09:20:11 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@73402027
+2021-12-13 09:21:01 INFO  Database:10 - database instantiate..
+2021-12-13 09:21:03 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@4c78908b
+2021-12-13 09:21:03 INFO  Database:10 - database instantiate..
+2021-12-13 09:21:03 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@3d49667a
+2021-12-13 09:21:03 INFO  Database:10 - database instantiate..
+2021-12-13 09:21:03 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:21:03 INFO  Database:10 - database instantiate..
+2021-12-13 09:21:03 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:21:03 INFO  Database:18 - database getName()..
+2021-12-13 09:21:03 INFO  Database:10 - database instantiate..
+2021-12-13 09:21:03 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:21:03 INFO  Service:11 - service instantiate..add database instance
+2021-12-13 09:21:03 INFO  Database:10 - database instantiate..
+2021-12-13 09:21:03 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@73402027
+2021-12-13 09:22:24 INFO  Database:10 - database instantiate..
+2021-12-13 09:22:27 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@4c78908b
+2021-12-13 09:22:27 INFO  Database:10 - database instantiate..
+2021-12-13 09:22:27 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@3d49667a
+2021-12-13 09:22:27 INFO  Database:10 - database instantiate..
+2021-12-13 09:22:27 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:22:27 INFO  Database:10 - database instantiate..
+2021-12-13 09:22:27 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@32f9874c
+2021-12-13 09:22:27 INFO  Database:18 - database getName()..
+2021-12-13 09:22:27 INFO  Database:10 - database instantiate..
+2021-12-13 09:22:27 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@6b3afd6d
+2021-12-13 09:22:27 INFO  Service:11 - service instantiate..add database instance
+2021-12-13 09:22:27 INFO  Database:10 - database instantiate..
+2021-12-13 09:22:27 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@986b486
+2021-12-13 09:25:18 INFO  Repository:17 - Repository instantiate..database (mock) : null
+2021-12-13 09:25:18 INFO  Database:10 - database instantiate..
+2021-12-13 09:25:21 INFO  Repository:17 - Repository instantiate..database (mock) : null
+2021-12-13 09:25:21 INFO  Database:10 - database instantiate..
+2021-12-13 09:25:21 INFO  Repository:17 - Repository instantiate..database (mock) : null
+2021-12-13 09:25:21 INFO  Database:10 - database instantiate..
+2021-12-13 09:25:21 INFO  Repository:17 - Repository instantiate..database (mock) : null
+2021-12-13 09:25:21 INFO  Database:10 - database instantiate..
+2021-12-13 09:25:21 INFO  Database:18 - database getName()..
+2021-12-13 09:25:21 INFO  Repository:17 - Repository instantiate..database (mock) : null
+2021-12-13 09:25:21 INFO  Database:10 - database instantiate..
+2021-12-13 09:25:21 INFO  Service:11 - service instantiate..add database instance
+2021-12-13 09:25:21 INFO  Repository:17 - Repository instantiate..database (mock) : null
+2021-12-13 09:25:21 INFO  Database:10 - database instantiate..
+2021-12-13 09:26:24 INFO  Database:10 - database instantiate..
+2021-12-13 09:26:26 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@4c78908b
+2021-12-13 09:26:26 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:26:26 INFO  Database:10 - database instantiate..
+2021-12-13 09:26:26 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@3d49667a
+2021-12-13 09:26:26 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:26:26 INFO  Database:10 - database instantiate..
+2021-12-13 09:26:26 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@3c6ee93
+2021-12-13 09:26:26 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:26:26 INFO  Database:10 - database instantiate..
+2021-12-13 09:26:26 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:26:26 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:26:26 INFO  Database:18 - database getName()..
+2021-12-13 09:26:26 INFO  Database:10 - database instantiate..
+2021-12-13 09:26:26 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:26:26 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:26:26 INFO  Service:11 - service instantiate..add database instance
+2021-12-13 09:26:26 INFO  Database:10 - database instantiate..
+2021-12-13 09:26:26 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:26:26 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:28:16 INFO  Database:10 - database instantiate..
+2021-12-13 09:28:18 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@4c78908b
+2021-12-13 09:28:18 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:28:18 INFO  Database:10 - database instantiate..
+2021-12-13 09:28:18 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@3d49667a
+2021-12-13 09:28:18 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:28:18 INFO  Database:10 - database instantiate..
+2021-12-13 09:28:18 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:28:18 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:28:18 INFO  Database:10 - database instantiate..
+2021-12-13 09:28:18 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@24d185a0
+2021-12-13 09:28:18 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:28:18 INFO  Database:18 - database getName()..
+2021-12-13 09:28:18 INFO  Database:10 - database instantiate..
+2021-12-13 09:28:18 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@681a489c
+2021-12-13 09:28:18 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:28:18 INFO  Service:11 - service instantiate..add database instance
+2021-12-13 09:28:18 INFO  Database:10 - database instantiate..
+2021-12-13 09:28:18 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:28:18 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:28:58 INFO  Database:10 - database instantiate..
+2021-12-13 09:28:59 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@4c78908b
+2021-12-13 09:29:00 INFO  Database:10 - database instantiate..
+2021-12-13 09:29:00 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@3d49667a
+2021-12-13 09:29:00 INFO  Database:10 - database instantiate..
+2021-12-13 09:29:00 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:29:00 INFO  Database:10 - database instantiate..
+2021-12-13 09:29:00 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:29:00 INFO  Database:18 - database getName()..
+2021-12-13 09:29:00 INFO  Database:10 - database instantiate..
+2021-12-13 09:29:00 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:29:00 INFO  Service:11 - service instantiate..add database instance
+2021-12-13 09:29:00 INFO  Database:10 - database instantiate..
+2021-12-13 09:29:00 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@73402027
+2021-12-13 09:29:16 INFO  Database:10 - database instantiate..
+2021-12-13 09:29:17 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:29:17 INFO  Database:10 - database instantiate..
+2021-12-13 09:29:18 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:29:18 INFO  Database:10 - database instantiate..
+2021-12-13 09:29:18 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:29:18 INFO  Database:10 - database instantiate..
+2021-12-13 09:29:18 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:29:18 INFO  Database:18 - database getName()..
+2021-12-13 09:29:18 INFO  Database:10 - database instantiate..
+2021-12-13 09:29:18 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:29:18 INFO  Service:11 - service instantiate..add database instance
+2021-12-13 09:29:18 INFO  Database:10 - database instantiate..
+2021-12-13 09:29:18 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:29:38 INFO  Database:10 - database instantiate..
+2021-12-13 09:29:40 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:29:40 INFO  Database:10 - database instantiate..
+2021-12-13 09:29:40 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:29:40 INFO  Database:10 - database instantiate..
+2021-12-13 09:29:40 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:29:41 INFO  Database:10 - database instantiate..
+2021-12-13 09:29:41 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:29:41 INFO  Database:18 - database getName()..
+2021-12-13 09:29:41 INFO  Database:10 - database instantiate..
+2021-12-13 09:29:41 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:29:41 INFO  Service:11 - service instantiate..add database instance
+2021-12-13 09:29:41 INFO  Database:10 - database instantiate..
+2021-12-13 09:29:41 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:33:20 INFO  Database:10 - database instantiate..
+2021-12-13 09:33:22 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:33:22 INFO  Database:10 - database instantiate..
+2021-12-13 09:33:22 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:33:22 INFO  Database:10 - database instantiate..
+2021-12-13 09:33:22 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:33:22 INFO  Database:10 - database instantiate..
+2021-12-13 09:33:22 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:33:22 INFO  Database:18 - database getName()..
+2021-12-13 09:33:22 INFO  Database:10 - database instantiate..
+2021-12-13 09:33:22 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:33:22 INFO  Service:11 - service instantiate..add database instance
+2021-12-13 09:33:22 INFO  Database:10 - database instantiate..
+2021-12-13 09:33:22 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:33:40 INFO  Database:10 - database instantiate..
+2021-12-13 09:33:42 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:33:42 INFO  Database:10 - database instantiate..
+2021-12-13 09:33:42 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:33:42 INFO  Database:10 - database instantiate..
+2021-12-13 09:33:42 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:33:42 INFO  Database:10 - database instantiate..
+2021-12-13 09:33:42 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:33:42 INFO  Database:18 - database getName()..
+2021-12-13 09:33:42 INFO  Database:10 - database instantiate..
+2021-12-13 09:33:42 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:33:42 INFO  Service:11 - service instantiate..add database instance
+2021-12-13 09:33:42 INFO  Database:10 - database instantiate..
+2021-12-13 09:33:42 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:34:20 INFO  Database:10 - database instantiate..
+2021-12-13 09:34:22 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:34:22 INFO  Database:10 - database instantiate..
+2021-12-13 09:34:22 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:34:22 INFO  Database:10 - database instantiate..
+2021-12-13 09:34:22 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:34:22 INFO  Database:10 - database instantiate..
+2021-12-13 09:34:22 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:34:22 INFO  Database:18 - database getName()..
+2021-12-13 09:34:22 INFO  Database:10 - database instantiate..
+2021-12-13 09:34:23 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:34:23 INFO  Service:11 - service instantiate..add database instance
+2021-12-13 09:34:23 INFO  Database:10 - database instantiate..
+2021-12-13 09:34:23 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:35:00 INFO  Database:10 - database instantiate..
+2021-12-13 09:35:02 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:35:02 INFO  Database:10 - database instantiate..
+2021-12-13 09:35:02 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:35:02 INFO  Database:10 - database instantiate..
+2021-12-13 09:35:02 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:35:02 INFO  Database:10 - database instantiate..
+2021-12-13 09:35:02 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:35:02 INFO  Database:18 - database getName()..
+2021-12-13 09:35:02 INFO  Database:10 - database instantiate..
+2021-12-13 09:35:02 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:35:02 INFO  Service:11 - service instantiate..add database instance
+2021-12-13 09:35:02 INFO  Database:10 - database instantiate..
+2021-12-13 09:35:02 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:35:14 INFO  Database:10 - database instantiate..
+2021-12-13 09:35:16 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@57f95b1c
+2021-12-13 09:35:16 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:35:16 INFO  Database:10 - database instantiate..
+2021-12-13 09:35:16 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@159e651f
+2021-12-13 09:35:16 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:35:16 INFO  Database:10 - database instantiate..
+2021-12-13 09:35:16 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@5b8a6fff
+2021-12-13 09:35:16 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:35:16 INFO  Database:10 - database instantiate..
+2021-12-13 09:35:16 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:35:16 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:35:16 INFO  Database:18 - database getName()..
+2021-12-13 09:35:16 INFO  Database:10 - database instantiate..
+2021-12-13 09:35:16 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@3a40e651
+2021-12-13 09:35:16 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:35:16 INFO  Service:11 - service instantiate..add database instance
+2021-12-13 09:35:16 INFO  Database:10 - database instantiate..
+2021-12-13 09:35:16 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@6f986788
+2021-12-13 09:35:16 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:35:32 INFO  Database:10 - database instantiate..
+2021-12-13 09:35:34 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@4c78908b
+2021-12-13 09:35:34 INFO  Database:10 - database instantiate..
+2021-12-13 09:35:34 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@3d49667a
+2021-12-13 09:35:34 INFO  Database:18 - database getName()..
+2021-12-13 09:35:34 INFO  Database:10 - database instantiate..
+2021-12-13 09:35:34 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:35:34 INFO  Database:10 - database instantiate..
+2021-12-13 09:35:34 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@2d50ccc
+2021-12-13 09:35:34 INFO  Database:18 - database getName()..
+2021-12-13 09:35:34 INFO  Database:10 - database instantiate..
+2021-12-13 09:35:34 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@58bb304d
+2021-12-13 09:35:34 INFO  Service:11 - service instantiate..add database instance
+2021-12-13 09:35:34 INFO  Database:10 - database instantiate..
+2021-12-13 09:35:34 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:35:55 INFO  Database:10 - database instantiate..
+2021-12-13 09:35:57 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@4c78908b
+2021-12-13 09:35:57 INFO  Database:10 - database instantiate..
+2021-12-13 09:35:57 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@3d49667a
+2021-12-13 09:35:57 INFO  Database:18 - database getName()..
+2021-12-13 09:35:57 INFO  Database:10 - database instantiate..
+2021-12-13 09:35:57 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:35:57 INFO  Database:10 - database instantiate..
+2021-12-13 09:35:57 INFO  Repository:17 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:35:57 INFO  Database:18 - database getName()..
+2021-12-13 09:35:57 INFO  Database:10 - database instantiate..
+2021-12-13 09:35:57 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@66bc9fcc
+2021-12-13 09:35:57 INFO  Service:11 - service instantiate..add database instance
+2021-12-13 09:35:57 INFO  Database:10 - database instantiate..
+2021-12-13 09:35:57 INFO  Repository:17 - Repository instantiate..database (mock) : mc.apps.main.Database@986b486
+2021-12-13 09:37:21 INFO  Database:10 - database instantiate..
+2021-12-13 09:37:23 INFO  Repository:16 - Repository instantiate..database (mock) : mc.apps.main.Database@4c78908b
+2021-12-13 09:37:23 INFO  Database:10 - database instantiate..
+2021-12-13 09:37:23 INFO  Repository:16 - Repository instantiate..database (mock) : mc.apps.main.Database@3d49667a
+2021-12-13 09:37:23 INFO  Database:18 - database getName()..
+2021-12-13 09:37:23 INFO  Database:10 - database instantiate..
+2021-12-13 09:37:24 INFO  Repository:16 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:37:24 INFO  Database:10 - database instantiate..
+2021-12-13 09:37:24 INFO  Repository:16 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:37:24 INFO  Database:18 - database getName()..
+2021-12-13 09:37:24 INFO  Database:10 - database instantiate..
+2021-12-13 09:37:24 INFO  Repository:16 - Repository instantiate..database (mock) : mc.apps.main.Database@66bc9fcc
+2021-12-13 09:37:24 INFO  Service:11 - service instantiate..add database instance
+2021-12-13 09:37:24 INFO  Database:10 - database instantiate..
+2021-12-13 09:37:24 INFO  Repository:16 - Repository instantiate..database (mock) : mc.apps.main.Database@986b486
+2021-12-13 09:38:02 INFO  Database:10 - database instantiate..
+2021-12-13 09:38:04 INFO  Repository:16 - Repository instantiate..database (mock) : mc.apps.main.Database@4c78908b
+2021-12-13 09:38:04 INFO  Database:10 - database instantiate..
+2021-12-13 09:38:04 INFO  Repository:16 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:38:04 INFO  Database:10 - database instantiate..
+2021-12-13 09:38:04 INFO  Repository:16 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:38:04 INFO  Database:10 - database instantiate..
+2021-12-13 09:38:04 INFO  Repository:16 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:38:05 INFO  Database:18 - database getName()..
+2021-12-13 09:38:05 INFO  Database:10 - database instantiate..
+2021-12-13 09:38:05 INFO  Repository:16 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:38:05 INFO  Service:11 - service instantiate..add database instance
+2021-12-13 09:38:05 INFO  Database:10 - database instantiate..
+2021-12-13 09:38:05 INFO  Repository:16 - Repository instantiate..database (mock) : mc.apps.main.Database@512761a7
+2021-12-13 09:47:24 INFO  Database:10 - database instantiate..
+2021-12-13 09:47:26 INFO  Repository:16 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:47:26 INFO  Database:10 - database instantiate..
+2021-12-13 09:47:26 INFO  Repository:16 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:47:26 INFO  Database:10 - database instantiate..
+2021-12-13 09:47:26 INFO  Repository:16 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:47:26 INFO  Database:10 - database instantiate..
+2021-12-13 09:47:26 INFO  Repository:16 - Repository instantiate..database (mock) : mc.apps.main.Database@7ae65c85
+2021-12-13 09:47:26 INFO  Database:18 - database getName()..
+2021-12-13 09:47:26 INFO  Database:10 - database instantiate..
+2021-12-13 09:47:26 INFO  Repository:16 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:47:26 INFO  Service:11 - service instantiate..add database instance
+2021-12-13 09:47:26 INFO  Database:10 - database instantiate..
+2021-12-13 09:47:26 INFO  Repository:16 - Repository instantiate..database (mock) : mc.apps.main.Database@13842692
+2021-12-13 09:48:17 INFO  Database:10 - database instantiate..
+2021-12-13 09:48:19 INFO  Repository:16 - Repository instantiate..database (mock) : mc.apps.main.Database@4c78908b
+2021-12-13 09:48:19 INFO  Database:10 - database instantiate..
+2021-12-13 09:48:19 INFO  Repository:16 - Repository instantiate..database (mock) : mc.apps.main.Database@3d49667a
+2021-12-13 09:48:19 INFO  Database:18 - database getName()..
+2021-12-13 09:48:19 INFO  Database:10 - database instantiate..
+2021-12-13 09:48:19 INFO  Repository:16 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:48:19 INFO  Database:10 - database instantiate..
+2021-12-13 09:48:19 INFO  Repository:16 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:48:19 INFO  Database:18 - database getName()..
+2021-12-13 09:48:19 INFO  Database:10 - database instantiate..
+2021-12-13 09:48:19 INFO  Repository:16 - Repository instantiate..database (mock) : mc.apps.main.Database@66bc9fcc
+2021-12-13 09:48:19 INFO  Service:11 - service instantiate..add database instance
+2021-12-13 09:48:19 INFO  Database:10 - database instantiate..
+2021-12-13 09:48:19 INFO  Repository:16 - Repository instantiate..database (mock) : mc.apps.main.Database@986b486
+2021-12-13 09:48:37 INFO  Database:10 - database instantiate..
+2021-12-13 09:48:39 INFO  Repository:16 - Repository instantiate..database (mock) : mc.apps.main.Database@4c78908b
+2021-12-13 09:48:39 INFO  Database:10 - database instantiate..
+2021-12-13 09:48:39 INFO  Repository:16 - Repository instantiate..database (mock) : mc.apps.main.Database@3d49667a
+2021-12-13 09:48:39 INFO  Database:18 - database getName()..
+2021-12-13 09:48:39 INFO  Database:10 - database instantiate..
+2021-12-13 09:48:39 INFO  Repository:16 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:48:39 INFO  Database:10 - database instantiate..
+2021-12-13 09:48:39 INFO  Repository:16 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:48:39 INFO  Database:18 - database getName()..
+2021-12-13 09:48:39 INFO  Database:10 - database instantiate..
+2021-12-13 09:48:39 INFO  Repository:16 - Repository instantiate..database (mock) : mc.apps.main.Database@66bc9fcc
+2021-12-13 09:48:39 INFO  Service:11 - service instantiate..add database instance
+2021-12-13 09:48:39 INFO  Database:10 - database instantiate..
+2021-12-13 09:48:39 INFO  Repository:16 - Repository instantiate..database (mock) : mc.apps.main.Database@986b486
+2021-12-13 09:49:31 INFO  Database:10 - database instantiate..
+2021-12-13 09:49:33 INFO  Repository:16 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:49:33 INFO  Database:10 - database instantiate..
+2021-12-13 09:49:33 INFO  Repository:16 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:49:33 INFO  Database:10 - database instantiate..
+2021-12-13 09:49:33 INFO  Repository:16 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:49:33 INFO  Database:10 - database instantiate..
+2021-12-13 09:49:33 INFO  Repository:16 - Repository instantiate..database (mock) : mc.apps.main.Database@7ae65c85
+2021-12-13 09:49:33 INFO  Database:18 - database getName()..
+2021-12-13 09:49:33 INFO  Database:10 - database instantiate..
+2021-12-13 09:49:33 INFO  Repository:16 - Repository instantiate..database (mock) : databaseMock
+2021-12-13 09:49:33 INFO  Service:11 - service instantiate..add database instance
+2021-12-13 09:49:33 INFO  Database:10 - database instantiate..
+2021-12-13 09:49:33 INFO  Repository:16 - Repository instantiate..database (mock) : mc.apps.main.Database@13842692
+2021-12-13 09:58:58 INFO  Database:10 - database instantiate..
+2021-12-13 09:59:00 INFO  Service:11 - service instantiate..add repository instance
+2021-12-13 09:59:00 INFO  Database:10 - database instantiate..
+2021-12-13 09:59:00 INFO  Service:11 - service instantiate..add repository instance
+2021-12-13 09:59:00 INFO  Database:10 - database instantiate..
+2021-12-13 09:59:00 INFO  Service:11 - service instantiate..add repository instance
+2021-12-13 09:59:00 INFO  Database:18 - database getName()..
+2021-12-13 09:59:00 INFO  Database:10 - database instantiate..
+2021-12-13 09:59:00 INFO  Service:11 - service instantiate..add repository instance
+2021-12-13 09:59:00 INFO  Repository:12 - Repository instantiate..database (mock) : database
+2021-12-13 09:59:00 INFO  Database:10 - database instantiate..
+2021-12-13 09:59:00 INFO  Service:11 - service instantiate..add repository instance
+2021-12-13 09:59:00 INFO  Database:10 - database instantiate..
+2021-12-13 09:59:00 INFO  Service:11 - service instantiate..add repository instance
+2021-12-13 10:00:08 INFO  Database:10 - database instantiate..
+2021-12-13 10:00:10 INFO  Service:11 - service instantiate..add repository instance
+2021-12-13 10:00:10 INFO  Database:10 - database instantiate..
+2021-12-13 10:00:10 INFO  Service:11 - service instantiate..add repository instance
+2021-12-13 10:00:10 INFO  Database:10 - database instantiate..
+2021-12-13 10:00:10 INFO  Service:11 - service instantiate..add repository instance
+2021-12-13 10:00:10 INFO  Database:18 - database getName()..
+2021-12-13 10:00:10 INFO  Database:10 - database instantiate..
+2021-12-13 10:00:10 INFO  Service:11 - service instantiate..add repository instance
+2021-12-13 10:00:10 INFO  Repository:12 - Repository instantiate..database (mock) : database
+2021-12-13 10:00:10 INFO  Database:10 - database instantiate..
+2021-12-13 10:00:10 INFO  Service:11 - service instantiate..add repository instance
+2021-12-13 10:00:10 INFO  Database:10 - database instantiate..
+2021-12-13 10:00:10 INFO  Service:11 - service instantiate..add repository instance
+2021-12-13 10:01:15 INFO  Database:10 - database instantiate..
+2021-12-13 10:01:16 INFO  Service:11 - service instantiate..add repository instance
+2021-12-13 10:01:17 INFO  Database:10 - database instantiate..
+2021-12-13 10:01:17 INFO  Service:11 - service instantiate..add repository instance
+2021-12-13 10:01:17 INFO  Database:10 - database instantiate..
+2021-12-13 10:01:17 INFO  Service:11 - service instantiate..add repository instance
+2021-12-13 10:01:17 INFO  Database:18 - database getName()..
+2021-12-13 10:01:17 INFO  Database:10 - database instantiate..
+2021-12-13 10:01:17 INFO  Service:11 - service instantiate..add repository instance
+2021-12-13 10:01:17 INFO  Repository:12 - Repository instantiate..database (mock) : database
+2021-12-13 10:01:17 INFO  Database:10 - database instantiate..
+2021-12-13 10:01:17 INFO  Service:11 - service instantiate..add repository instance
+2021-12-13 10:01:17 INFO  Database:10 - database instantiate..
+2021-12-13 10:01:17 INFO  Service:11 - service instantiate..add repository instance
+2021-12-13 10:02:53 INFO  Database:10 - database instantiate..
+2021-12-13 10:02:55 INFO  Service:11 - service instantiate..add repository instance
+2021-12-13 10:02:55 INFO  Database:10 - database instantiate..
+2021-12-13 10:02:55 INFO  Service:11 - service instantiate..add repository instance
+2021-12-13 10:02:55 INFO  Database:10 - database instantiate..
+2021-12-13 10:02:55 INFO  Service:11 - service instantiate..add repository instance
+2021-12-13 10:02:55 INFO  Database:18 - database getName()..
+2021-12-13 10:02:55 INFO  Database:10 - database instantiate..
+2021-12-13 10:02:55 INFO  Service:11 - service instantiate..add repository instance
+2021-12-13 10:02:55 INFO  Repository:12 - Repository instantiate..database (mock) : database
+2021-12-13 10:02:55 INFO  Database:10 - database instantiate..
+2021-12-13 10:02:55 INFO  Service:11 - service instantiate..add repository instance
+2021-12-13 10:02:55 INFO  Database:10 - database instantiate..
+2021-12-13 10:02:55 INFO  Service:11 - service instantiate..add repository instance
+2021-12-13 10:07:13 INFO  Database:10 - database instantiate..
+2021-12-13 10:07:15 INFO  Service:11 - service instantiate..add repository instance
+2021-12-13 10:07:15 INFO  Database:10 - database instantiate..
+2021-12-13 10:07:15 INFO  Service:11 - service instantiate..add repository instance
+2021-12-13 10:07:15 INFO  Database:18 - database getName()..
+2021-12-13 10:07:15 INFO  Database:10 - database instantiate..
+2021-12-13 10:07:15 INFO  Service:11 - service instantiate..add repository instance
+2021-12-13 10:07:15 INFO  Database:10 - database instantiate..
+2021-12-13 10:07:15 INFO  Service:11 - service instantiate..add repository instance
+2021-12-13 10:09:47 INFO  Database:10 - database instantiate..
+2021-12-13 10:09:49 INFO  Service:11 - service instantiate..add repository instance
+2021-12-13 10:09:49 INFO  Database:10 - database instantiate..
+2021-12-13 10:09:49 INFO  Service:11 - service instantiate..add repository instance
+2021-12-13 10:09:49 INFO  Database:18 - database getName()..
+2021-12-13 10:09:49 INFO  Database:10 - database instantiate..
+2021-12-13 10:09:49 INFO  Service:11 - service instantiate..add repository instance
+2021-12-13 10:09:49 INFO  Database:10 - database instantiate..
+2021-12-13 10:09:49 INFO  Service:11 - service instantiate..add repository instance
+2021-12-13 10:21:59 INFO  DummyService:14 - DummyService instantiate..Repository = dummyRepository
+2021-12-13 10:25:15 INFO  DummyService:14 - DummyService instantiate..Repository = dummyRepository
+2021-12-13 10:25:32 INFO  DummyService:14 - DummyService instantiate..Repository = dummyRepository
+2021-12-13 10:25:51 INFO  DummyService:14 - DummyService instantiate..Repository = dummyRepository
+2021-12-13 10:26:00 INFO  DummyService:14 - DummyService instantiate..Repository = dummyRepository
+2021-12-13 10:26:17 INFO  DummyService:14 - DummyService instantiate..Repository = dummyRepository
+2021-12-13 10:26:29 INFO  DummyService:14 - DummyService instantiate..Repository = dummyRepository
+2021-12-13 10:27:59 INFO  DummyService:14 - DummyService instantiate..Repository = dummyRepository

@@ -5,22 +5,19 @@ import org.slf4j.LoggerFactory;
 
 public class Repository {
     private final Logger logger = LoggerFactory.getLogger(Repository.class);
+//    final Database database;
 
-    final Item item;
-    final Database database;
-
-    public Repository(Item itemMock, Database databaseMock){
-        logger.info("Repository instantiate.."+databaseMock.getName());
-        this.item = itemMock;
-        this.database = databaseMock;
-    }
-
-//    public Repository() {
-//        logger.info("Repository instantiate..");
+//    public Repository(Database database){
+//        this.database = database;
+//        logger.info("Repository instantiate..database (mock) : "+database);
 //    }
 
-    public boolean isOk() {
-        return true;
+    public Repository(){
+        logger.info("Repository instantiate..");//database (mock) : "+database);
+    }
+
+    public String info() {
+        return "Demo Repository";
     }
 
     public void doSomething() {

@@ -6,18 +6,13 @@ import org.slf4j.LoggerFactory;
 public class Service {
     private final Logger logger = LoggerFactory.getLogger(Service.class);
 
-    private Database database;
-    public Service(Database database) {
-        logger.info("service instantiate..add database instance");
-        this.database = database;
+    final Repository repository;
+    public Service(Repository repository) {
+        logger.info("service instantiate..add repository instance");
+        this.repository = repository;
     }
 
     public String info() {
-        return database.getName();
-    }
-
-    @Override
-    public String toString() {
-        return "Service Using database : " + database.getName();
+        return "Service Using repository : "+ repository.info();
     }
 }
