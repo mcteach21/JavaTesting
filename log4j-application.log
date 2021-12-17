@@ -828,3 +828,27 @@
 2021-12-13 10:26:17 INFO  DummyService:14 - DummyService instantiate..Repository = dummyRepository
 2021-12-13 10:26:29 INFO  DummyService:14 - DummyService instantiate..Repository = dummyRepository
 2021-12-13 10:27:59 INFO  DummyService:14 - DummyService instantiate..Repository = dummyRepository
+2021-12-17 09:48:50 INFO  DummyService:14 - DummyService instantiate..Repository = dummyRepository
+2021-12-17 09:49:54 INFO  DummyService:13 - DummyService instantiate..Repository = dummyRepository
+2021-12-17 09:51:01 INFO  DummyService:12 - DummyService instantiate..(Repository!=null) : true
+2021-12-17 09:52:37 INFO  DummyService:12 - DummyService instantiate..(Repository Injected) : true
+2021-12-17 09:52:37 INFO  MockitoInjectTests:48 - ==> null
+2021-12-17 09:53:02 INFO  DummyService:12 - DummyService instantiate..(Repository Injected) : true
+2021-12-17 09:53:02 INFO  MockitoInjectTests:48 - ==> null
+2021-12-17 09:59:30 INFO  DummyService:14 - DummyService instantiate..(Repository Injected) : true
+2021-12-17 09:59:30 INFO  MockitoInjectTests:52 - list : [Galaxy S10e - 999.99€., Galaxy S10+ - 1099.99€.]
+2021-12-17 10:00:16 INFO  DummyService:14 - DummyService instantiate..(Repository Injected) : true
+2021-12-17 10:01:38 INFO  DummyService:14 - DummyService instantiate..(Repository Injected) : true
+2021-12-17 10:01:38 INFO  MockitoInjectTests:47 - list : [Galaxy S10e - 999.99€., Galaxy S10+ - 1099.99€.]
+2021-12-17 10:01:38 INFO  MockitoInjectTests:51 - info : null
+2021-12-17 10:02:14 INFO  DummyService:14 - DummyService instantiate..(Repository Injected) : true
+2021-12-17 10:02:14 INFO  MockitoInjectTests:47 - list : [Galaxy S10e - 999.99€., Galaxy S10+ - 1099.99€.]
+2021-12-17 10:02:14 INFO  MockitoInjectTests:52 - info : repo
+2021-12-17 10:02:57 INFO  DummyService:14 - DummyService instantiate..(Repository Injected) : true
+2021-12-17 10:02:57 INFO  MockitoInjectTests:47 - list : [Galaxy S10e - 999.99€., Galaxy S10+ - 1099.99€.]
+2021-12-17 10:02:57 INFO  MockitoInjectTests:53 - info : repo
+2021-12-17 10:03:16 INFO  DummyService:14 - DummyService instantiate..(Repository Injected) : true
+2021-12-17 10:03:16 INFO  MockitoInjectTests:47 - list : [Galaxy S10e - 999.99€., Galaxy S10+ - 1099.99€.]
+2021-12-17 10:03:39 INFO  DummyService:14 - DummyService instantiate..(Repository Injected) : true
+2021-12-17 10:03:39 INFO  MockitoInjectTests:47 - list : [Galaxy S10e - 999.99€., Galaxy S10+ - 1099.99€.]
+2021-12-17 10:03:39 INFO  MockitoInjectTests:55 - info : repo

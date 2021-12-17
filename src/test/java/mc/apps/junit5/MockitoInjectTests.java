@@ -1,5 +1,6 @@
 package mc.apps.junit5;
 
+import mc.apps.mocks.Article;
 import mc.apps.mocks.DummyRepository;
 import mc.apps.mocks.DummyService;
 import org.junit.jupiter.api.AfterEach;
@@ -10,6 +11,11 @@ import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.MockitoAnnotations;
 import org.mockito.junit.jupiter.MockitoExtension;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+import java.util.Arrays;
+import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
@@ -17,31 +23,36 @@ import static org.mockito.Mockito.when;
 
 @ExtendWith(MockitoExtension.class)
 public class MockitoInjectTests {
-    @Mock
-    private DummyRepository dummyRepository;
-    private AutoCloseable closeable;
+    private final Logger logger = LoggerFactory.getLogger(MockitoInjectTests.class);
 
     @InjectMocks
-    private DummyService dummyService;
+    DummyService service;
 
-    @BeforeEach
-    public void init(){
-        /**
-         * Create mocks for fields annotated with the @Mock annotation
-         * Create an instance of the field annotated with @InjectMocks and try to inject the mocks into it
-         */
-        closeable = MockitoAnnotations.openMocks(this);
-    }
-//    @AfterEach
-//    public void close() throws Exception {
-//        closeable.close();
-//    }
+    @Mock
+    DummyRepository repository;
 
     @Test
-    public void InjectMocksThenTest(){
-        assertNotNull(dummyService.getRepository());
+    public void ArticleServiceTests(){
+        assertNotNull(service);
 
-//        when(dummyService.info()).thenReturn("repo1");
-        assertEquals("repo1", dummyService.info());
+        assertEquals(true, service.isOk()); // injection (repository) ok!
+
+        List<Article> items = Arrays.asList(
+                new Article(1,"Galaxy S10e",999.99f,"cool","s10e.png"),
+                new Article(2,"Galaxy S10+",1099.99f,"cool+","s10.png")
+        );
+
+        when(repository.findAll()).thenReturn(items);
+
+        logger.info("list : "+service.list());
+        assertEquals(2, service.list().size());
+
+
+//      when(repository.info()).thenReturn("repo");
+        when(repository.info()).thenCallRealMethod();
+
+        assertEquals("repo", service.info());
+        logger.info("info : "+service.info());
+
     }
 }
